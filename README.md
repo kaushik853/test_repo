@@ -1,2 +1,2 @@
 ## Hello from Lagoon 
-This is another link [www.google.com]
+- [This is another link](www.google.com)
